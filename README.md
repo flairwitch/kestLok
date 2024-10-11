@@ -8,3 +8,4 @@ lokaverkefni
 ![](4.png)
 ![](5.png)
 ![](6.png)
+![tail /etc/passwd(tail.png)]
